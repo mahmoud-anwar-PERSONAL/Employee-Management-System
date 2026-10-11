@@ -1,0 +1,61 @@
+[
+    {
+        "id": "EMP001",
+        "name": "Ahmed Hassan",
+        "department": "IT",
+        "phone": "+20 100 000 0000",
+        "email": "ahmed@example.com",
+        "employee_type": "Full-Time",
+        "bonus": 500.0,
+        "extra_deduction": 0.0,
+        "present_days": 20,
+        "absent_days": 1,
+        "late_days": 2,
+        "monthly_salary": 12000.0
+    },
+    {
+        "id": "EMP002",
+        "name": "Sara Ali",
+        "department": "Marketing",
+        "phone": "+20 101 000 0000",
+        "email": "sara@example.com",
+        "employee_type": "Part-Time",
+        "bonus": 250.0,
+        "extra_deduction": 0.0,
+        "present_days": 15,
+        "absent_days": 0,
+        "late_days": 1,
+        "hourly_rate": 100.0,
+        "hours_worked": 80.0
+    },
+    {
+        "id": "EMP003",
+        "name": "Omar Khaled",
+        "department": "Design",
+        "phone": "+20 102 000 0000",
+        "email": "omar@example.com",
+        "employee_type": "Freelancer",
+        "bonus": 300.0,
+        "extra_deduction": 100.0,
+        "present_days": 0,
+        "absent_days": 0,
+        "late_days": 0,
+        "project_rate": 1500.0,
+        "completed_projects": 4
+    },
+    {
+        "id": "10",
+        "name": "MAHMOUD",
+        "department": "CS",
+        "phone": "01010101010",
+        "email": "mmmmmm",
+        "employee_type": "Freelancer",
+        "bonus": 0.0,
+        "extra_deduction": 0.0,
+        "present_days": 0,
+        "absent_days": 0,
+        "late_days": 0,
+        "project_rate": 500.0,
+        "completed_projects": 5
+    }
+]

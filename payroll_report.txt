@@ -1,0 +1,1 @@
+Run the application and choose 'Generate payroll report' to create the report.
